@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/BatresA.CRockPaperScissorsLizardSpock.props" />
+</Project>

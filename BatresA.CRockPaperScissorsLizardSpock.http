@@ -1,0 +1,6 @@
+@BatresA.CRockPaperScissorsLizardSpock_HostAddress = http://localhost:5028
+
+GET {{BatresA.CRockPaperScissorsLizardSpock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
