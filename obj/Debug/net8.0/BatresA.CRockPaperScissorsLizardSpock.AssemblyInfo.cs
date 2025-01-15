@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BatresA.CRockPaperScissorsLizardSpock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09d86dd0a4749ebeeb842ae5bb144288c22a776e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BatresA.CRockPaperScissorsLizardSpock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BatresA.CRockPaperScissorsLizardSpock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
