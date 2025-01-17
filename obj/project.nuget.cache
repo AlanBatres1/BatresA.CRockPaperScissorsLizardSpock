@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bm6OoAbRF24=",
+  "dgSpecHash": "56WoD8JhvPw=",
   "success": true,
-  "projectFilePath": "/Users/alanbatres/Documents/Level 2/Week 2/BatresA.CRockPaperScissorsLizardSpock/BatresA.CRockPaperScissorsLizardSpock.csproj",
+  "projectFilePath": "/Users/alanbatres/Documents/Level 2/Week 2/BatresA.RockPaperScissorsLizardspock/BatresA.CRockPaperScissorsLizardSpock/BatresA.CRockPaperScissorsLizardSpock.csproj",
   "expectedPackageFiles": [
     "/Users/alanbatres/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/alanbatres/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

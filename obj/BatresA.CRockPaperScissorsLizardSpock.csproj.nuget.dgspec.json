@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alanbatres/Documents/Level 2/Week 2/BatresA.CRockPaperScissorsLizardSpock/BatresA.CRockPaperScissorsLizardSpock.csproj": {}
+    "/Users/alanbatres/Documents/Level 2/Week 2/BatresA.RockPaperScissorsLizardspock/BatresA.CRockPaperScissorsLizardSpock/BatresA.CRockPaperScissorsLizardSpock.csproj": {}
   },
   "projects": {
-    "/Users/alanbatres/Documents/Level 2/Week 2/BatresA.CRockPaperScissorsLizardSpock/BatresA.CRockPaperScissorsLizardSpock.csproj": {
+    "/Users/alanbatres/Documents/Level 2/Week 2/BatresA.RockPaperScissorsLizardspock/BatresA.CRockPaperScissorsLizardSpock/BatresA.CRockPaperScissorsLizardSpock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alanbatres/Documents/Level 2/Week 2/BatresA.CRockPaperScissorsLizardSpock/BatresA.CRockPaperScissorsLizardSpock.csproj",
+        "projectUniqueName": "/Users/alanbatres/Documents/Level 2/Week 2/BatresA.RockPaperScissorsLizardspock/BatresA.CRockPaperScissorsLizardSpock/BatresA.CRockPaperScissorsLizardSpock.csproj",
         "projectName": "BatresA.CRockPaperScissorsLizardSpock",
-        "projectPath": "/Users/alanbatres/Documents/Level 2/Week 2/BatresA.CRockPaperScissorsLizardSpock/BatresA.CRockPaperScissorsLizardSpock.csproj",
+        "projectPath": "/Users/alanbatres/Documents/Level 2/Week 2/BatresA.RockPaperScissorsLizardspock/BatresA.CRockPaperScissorsLizardSpock/BatresA.CRockPaperScissorsLizardSpock.csproj",
         "packagesPath": "/Users/alanbatres/.nuget/packages/",
-        "outputPath": "/Users/alanbatres/Documents/Level 2/Week 2/BatresA.CRockPaperScissorsLizardSpock/obj/",
+        "outputPath": "/Users/alanbatres/Documents/Level 2/Week 2/BatresA.RockPaperScissorsLizardspock/BatresA.CRockPaperScissorsLizardSpock/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alanbatres/.nuget/NuGet/NuGet.Config"
